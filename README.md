@@ -71,4 +71,3 @@ Katkıda bulunmak isterseniz, lütfen bir **pull request** gönderin veya bir **
 ## 📄 Lisans
 
 Bu proje [Apache 2.0 Lisansı](https://www.apache.org/licenses/LICENSE-2.0) ile lisanslanmıştır.
-```
