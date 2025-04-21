@@ -1,4 +1,3 @@
-```
 # BankingApp3
 
 **BankingApp3**, bir JavaFX tabanlı bankacılık uygulamasıdır. Uygulama, müşteri ve hesap yönetimi gibi temel bankacılık işlemlerini gerçekleştirmek için tasarlanmıştır.
